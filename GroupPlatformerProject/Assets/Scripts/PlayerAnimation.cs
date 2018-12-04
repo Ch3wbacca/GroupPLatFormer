@@ -14,15 +14,23 @@ public class PlayerAnimation : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-        float x = Input.GetAxis("Horizontal");
-        Debug.Log(x);
-        float y = Input.GetAxis("Vertical");
-        if (Mathf.Abs(x) > 0)
+        float X = Input.GetAxis("Horizontal");
+        bool idle = true;
+        bool jumping = false;
+        float Y = Input.GetAxis("Vertical");
+        if (Mathf.Abs(X) > 0)
         {
-            GetComponent<Animator>().SetFloat("x", x);
+            GetComponent<Animator>().SetFloat("X", X);
+            GetComponent<Animator>().SetFloat("Y", Y);
 
         }
-        if (x == 0)
+        if (Mathf.Abs(Y) > 0)
+        {
+            GetComponent<Animator>().SetFloat("X", X);
+            GetComponent<Animator>().SetFloat("Y", Y);
+            jumping = true;
+        }
+        if (X == 0)
         {
             GetComponent<Animator>().SetBool("Idle", true);
         }
@@ -30,6 +38,11 @@ public class PlayerAnimation : MonoBehaviour {
         {
             GetComponent<Animator>().SetBool("Idle", false);
         }
+        if (Y == 0)
+        {
+            jumping = false;
+        }
+
 
     }
 }
