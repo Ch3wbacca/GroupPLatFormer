@@ -1,12 +1,9 @@
 fileFormatVersion: 2
-guid: 9b7c2c77d700a88429a4930009a41efc
+guid: 3d70855c80497e349b8cd374513fcb30
 TextureImporter:
   fileIDToRecycleName:
-    21300000: left jump_0
-    21300002: left jump_1
-    21300004: left jump_2
-    21300006: left jump_3
-    21300008: left jump_4
+    21300000: purple lady left_0
+    21300002: purple lady left_1
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -89,13 +86,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: left jump_0
+      name: purple lady left_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 139
-        width: 33
-        height: 43
+        x: 16
+        y: 159
+        width: 94
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -103,19 +100,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27049696f4760f84b9f68d3ad593de24
+      spriteID: 9651f4c7746e6fb44ab8f34d9a36696c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: left jump_1
+      name: purple lady left_1
       rect:
         serializedVersion: 2
-        x: 83
-        y: 139
-        width: 33
-        height: 46
+        x: 14
+        y: 31
+        width: 85
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -123,67 +120,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3747c92b8a9bef741b15ef5e2cb57884
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: left jump_2
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 75
-        width: 30
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dcc07c7c2c1b7d5448f8aa7124b72b27
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: left jump_3
-      rect:
-        serializedVersion: 2
-        x: 83
-        y: 82
-        width: 35
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c07a0decbdc43f74d960b9c20e8f8d4b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: left jump_4
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 11
-        width: 34
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0aaf6948dffc0aa46b0d678a05674303
+      spriteID: a3461e0e8466ede40ac9a1d6e7c7d0f0
       vertices: []
       indices: 
       edges: []
@@ -191,7 +128,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: fce4434529866f04fa48a63fdf32edc2
+    spriteID: 2727daa44dc0e69409f5cadfc33a1af7
     vertices: []
     indices: 
     edges: []
