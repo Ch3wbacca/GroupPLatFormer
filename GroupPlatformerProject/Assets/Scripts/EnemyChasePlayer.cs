@@ -56,7 +56,7 @@ public class EnemyChasePlayer : MonoBehaviour
             if (distanceFromStart >= paceDistance)
             {
                 //turn around, we've gone too far
-                paceDirection = paceDirection;
+                paceDirection = -displacement;
 
             }
             paceDirection.Normalize();
@@ -64,17 +64,9 @@ public class EnemyChasePlayer : MonoBehaviour
                 paceDirection * paceSpeed;
         }
 
-        float Left = Input.GetAxis("Horizontal");
-        float Right = Input.GetAxis("Horizontal");
+            GetComponent<Animator>().SetFloat("X", GetComponent<Rigidbody2D>().velocity.x);
+
         
-
-
-        if (Mathf.Abs(Right) > 0)
-        {
-            
-            GetComponent<Animator>().SetFloat("Right", Right);
-
-        }
 
     }
 }
