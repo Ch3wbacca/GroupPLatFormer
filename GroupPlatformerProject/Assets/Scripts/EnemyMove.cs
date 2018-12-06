@@ -37,4 +37,4 @@ public class EnemyMove : MonoBehaviour {
         GetComponent<Animator>().SetInteger("x", x);
     }
 }
-}
+

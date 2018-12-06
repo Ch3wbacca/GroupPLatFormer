@@ -69,7 +69,7 @@ public class EnemyChasePlayer : MonoBehaviour
         
 
 
-        if (Mathf.Abs(X) > 0)
+        if (Mathf.Abs(Right) > 0)
         {
             
             GetComponent<Animator>().SetFloat("Right", Right);
