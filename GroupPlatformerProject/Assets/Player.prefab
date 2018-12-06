@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 212015657796245404}
   - component: {fileID: 95145455322741218}
   - component: {fileID: 114024438366499956}
+  - component: {fileID: 114057915260243230}
   - component: {fileID: 114077313867754390}
   - component: {fileID: 50615469076515108}
   - component: {fileID: 61013369874938654}
@@ -70,7 +71,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1030316892605128}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.29, y: -2.41, z: 0}
+  m_LocalPosition: {x: 6.5192947, y: 0.05496788, z: 0}
   m_LocalScale: {x: 2.0105581, y: 2.4024923, z: 1}
   m_Children:
   - {fileID: 4001925244163348}
@@ -225,6 +226,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpSpeed: 3
   moveSpeed: 6
+--- !u!114 &114057915260243230
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1030316892605128}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9c77e1d7ea607408766576c6d8236c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  entry: {fileID: 0}
+  p: {fileID: 0}
+  pp: {fileID: 0}
+  pa: {fileID: 0}
+  pppppa: {fileID: 0}
+  a: {fileID: 0}
+  ap: {fileID: 0}
+  aa: {fileID: 0}
+  s1: {fileID: 0}
+  s2: {fileID: 0}
 --- !u!114 &114077313867754390
 MonoBehaviour:
   m_ObjectHideFlags: 1
