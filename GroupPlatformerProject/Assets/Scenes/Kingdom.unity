@@ -3020,7 +3020,7 @@ Transform:
   m_Father: {fileID: 515438119}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1320014907
+--- !u!1001 &1262833628
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -3029,11 +3029,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4127480450262160, guid: 143b6d07a24f5cb44b88526101caa04f, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 7.59
+      value: 6.5192947
       objectReference: {fileID: 0}
     - target: {fileID: 4127480450262160, guid: 143b6d07a24f5cb44b88526101caa04f, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0.07
+      value: 0.05496788
       objectReference: {fileID: 0}
     - target: {fileID: 4127480450262160, guid: 143b6d07a24f5cb44b88526101caa04f, type: 2}
       propertyPath: m_LocalPosition.z
@@ -3059,21 +3059,56 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 114024438366499956, guid: 143b6d07a24f5cb44b88526101caa04f,
+    - target: {fileID: 114057915260243230, guid: 143b6d07a24f5cb44b88526101caa04f,
         type: 2}
-      propertyPath: jumpSpeed
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 114024438366499956, guid: 143b6d07a24f5cb44b88526101caa04f,
+      propertyPath: entry
+      value: 
+      objectReference: {fileID: 5336108}
+    - target: {fileID: 114057915260243230, guid: 143b6d07a24f5cb44b88526101caa04f,
         type: 2}
-      propertyPath: moveSpeed
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 50615469076515108, guid: 143b6d07a24f5cb44b88526101caa04f,
+      propertyPath: p
+      value: 
+      objectReference: {fileID: 91961173}
+    - target: {fileID: 114057915260243230, guid: 143b6d07a24f5cb44b88526101caa04f,
         type: 2}
-      propertyPath: m_Constraints
-      value: 4
-      objectReference: {fileID: 0}
+      propertyPath: pp
+      value: 
+      objectReference: {fileID: 640104073}
+    - target: {fileID: 114057915260243230, guid: 143b6d07a24f5cb44b88526101caa04f,
+        type: 2}
+      propertyPath: pa
+      value: 
+      objectReference: {fileID: 322635735}
+    - target: {fileID: 114057915260243230, guid: 143b6d07a24f5cb44b88526101caa04f,
+        type: 2}
+      propertyPath: pppppa
+      value: 
+      objectReference: {fileID: 1199850834}
+    - target: {fileID: 114057915260243230, guid: 143b6d07a24f5cb44b88526101caa04f,
+        type: 2}
+      propertyPath: a
+      value: 
+      objectReference: {fileID: 2029617463}
+    - target: {fileID: 114057915260243230, guid: 143b6d07a24f5cb44b88526101caa04f,
+        type: 2}
+      propertyPath: ap
+      value: 
+      objectReference: {fileID: 1237454715}
+    - target: {fileID: 114057915260243230, guid: 143b6d07a24f5cb44b88526101caa04f,
+        type: 2}
+      propertyPath: aa
+      value: 
+      objectReference: {fileID: 700142961}
+    - target: {fileID: 114057915260243230, guid: 143b6d07a24f5cb44b88526101caa04f,
+        type: 2}
+      propertyPath: s1
+      value: 
+      objectReference: {fileID: 769222540}
+    - target: {fileID: 114057915260243230, guid: 143b6d07a24f5cb44b88526101caa04f,
+        type: 2}
+      propertyPath: s2
+      value: 
+      objectReference: {fileID: 1095518945}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 143b6d07a24f5cb44b88526101caa04f, type: 2}
   m_IsPrefabAsset: 0
@@ -3865,32 +3900,6 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1564824232}
   m_CullTransparentMesh: 0
---- !u!1 &1576164132 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1030316892605128, guid: 143b6d07a24f5cb44b88526101caa04f,
-    type: 2}
-  m_PrefabInternal: {fileID: 1320014907}
---- !u!114 &1576164141
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1576164132}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6c9c77e1d7ea607408766576c6d8236c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  entry: {fileID: 5336108}
-  p: {fileID: 91961173}
-  pp: {fileID: 640104073}
-  pa: {fileID: 322635735}
-  pppppa: {fileID: 1199850834}
-  a: {fileID: 2029617463}
-  ap: {fileID: 1237454715}
-  aa: {fileID: 700142961}
-  s1: {fileID: 769222540}
-  s2: {fileID: 1095518945}
 --- !u!1 &1662283329
 GameObject:
   m_ObjectHideFlags: 0
