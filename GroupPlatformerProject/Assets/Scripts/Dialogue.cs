@@ -16,6 +16,7 @@ public class Dialogue : MonoBehaviour {
     public GameObject aa;
     public GameObject s1;
     public GameObject s2;
+    public GameObject door;
 	void Start () {
 		
 	}
@@ -30,6 +31,7 @@ public class Dialogue : MonoBehaviour {
         {
             entry.SetActive(true);
             Time.timeScale = 0;
+            door.SetActive(true);
         }
     }
     public void P()
@@ -84,25 +86,30 @@ public class Dialogue : MonoBehaviour {
     {
         pa.SetActive(false);
         Time.timeScale = 1;
+        door.SetActive(false);
     }
     public void PPPPPAD()
     {
         pppppa.SetActive(false);
         Time.timeScale = 1;
+        door.SetActive(false);
     }
     public void APD()
     {
         ap.SetActive(false);
         Time.timeScale = 1;
+        door.SetActive(false);
     }
     public void AAD()
     {
         aa.SetActive(false);
         Time.timeScale = 1;
+        door.SetActive(false);
     }
     public void S3()
     {
         s2.SetActive(false);
         Time.timeScale = 1;
+        door.SetActive(false);
     }
 }
