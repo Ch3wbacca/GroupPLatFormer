@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: 0f4563df4219c004fa811ebb1d443069
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bridge (upside down) 1_0
+    21300002: bridge (upside down) 1_1
+    21300004: bridge (upside down) 1_2
+    21300006: bridge (upside down) 1_3
+    21300008: bridge (upside down) 1_4
+    21300010: bridge (upside down) 1_5
+    21300012: bridge (upside down) 1_6
+    21300014: bridge (upside down) 1_7
+    21300016: bridge (upside down) 1_8
+    21300018: bridge (upside down) 1_9
+    21300020: bridge (upside down) 1_10
+    21300022: bridge (upside down) 1_11
+    21300024: bridge (upside down) 1_12
+    21300026: bridge (upside down) 1_13
+    21300028: bridge (upside down) 1_14
+    21300030: bridge (upside down) 1_15
+    21300032: bridge (upside down) 1_16
+    21300034: bridge (upside down) 1_17
+    21300036: bridge (upside down) 1_18
+    21300038: bridge (upside down) 1_19
+    21300040: bridge (upside down) 1_20
+    21300042: bridge (upside down) 1_21
+    21300044: bridge (upside down) 1_22
+    21300046: bridge (upside down) 1_23
+    21300048: bridge (upside down) 1_24
+    21300050: bridge (upside down) 1_25
+    21300052: bridge (upside down) 1_26
+    21300054: bridge (upside down) 1_27
+    21300056: bridge (upside down) 1_28
+    21300058: bridge (upside down) 1_29
+    21300060: bridge (upside down) 1_30
+    21300062: bridge (upside down) 1_31
+    21300064: bridge (upside down) 1_32
+    21300066: bridge (upside down) 1_33
+    21300068: bridge (upside down) 1_34
+    21300070: bridge (upside down) 1_35
+    21300072: bridge (upside down) 1_36
+    21300074: bridge (upside down) 1_37
+    21300076: bridge (upside down) 1_38
+    21300078: bridge (upside down) 1_39
+    21300080: bridge (upside down) 1_40
+    21300082: bridge (upside down) 1_41
+    21300084: bridge (upside down) 1_42
+    21300086: bridge (upside down) 1_43
+    21300088: bridge (upside down) 1_44
+    21300090: bridge (upside down) 1_45
+    21300092: bridge (upside down) 1_46
+    21300094: bridge (upside down) 1_47
+    21300096: bridge (upside down) 1_48
+    21300098: bridge (upside down) 1_49
+    21300100: bridge (upside down) 1_50
+    21300102: bridge (upside down) 1_51
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bridge (upside down) 1_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 533.3333
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35390d686d00a1448dbbbc299c90b7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 533.3333
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e888ba2a057724cad4e074152ccb94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 533.3333
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3efefb5a4056bb4a9c7c0856ff49944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 533.3333
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdc21ff441bceb4dab4b9ac088df3c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 533.3333
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db02955bae5a1d458a9ed4343ee8d76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_5
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 533.3333
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fafc200d2eaf424086e97abbcfbb56c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_6
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 533.3333
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08de358032b78824a94fc7503fb1debf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 533.3333
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf13381832c66042865f550f79af70d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e643d98066b4a944fa736eeee1bafeed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 427.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bf232fc34cf6e4da7bb2bc8549edca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 427.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddebceb94461fe349bd79c81f8da30ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 427.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5763b57dd6b4a4892c58739dfb44d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 427.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077880ab962201944bcc4a25809f7a70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 427.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950eb4f26fd840247b508dba66b69dc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 427.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417745a4eec8bfc419dfec28b9e16fea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 427.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22b21e63aaec204d9fcf8f8638d9292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_16
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 427.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538269b536c556743b7bbbbd606107fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_17
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 427.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8045702cb6a985b4995ef16cd6fdf2f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc75a1f6bf7bbe544bf34672578c1793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 321.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b496022decb287459eb118da0898985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 321.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f330b390ec9b98498716c3f62c9e139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 321.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508378cbf4aa15a4881c4a3653ffac37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 321.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180efff2259012942bd9715b8cb5fc6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 321.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1893fc3ebe371884b9d3d24bc45a6fd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_24
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 321.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddfae65fabc8564f99f371092b07cae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_25
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 321.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4956910e26cff194a8f739ca9cc955ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee7c13ff0af854bbd10917572e9fde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 215.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058409fee2837b843b46097f46aa1aa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 215.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b571dfb46588b479c2c7878230a18e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 215.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd41af582127bb489589790784ee1c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_30
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 215.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885492896eb9112449dccba4927dd38a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_31
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 215.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7876c193a0d274a9c07be97c5b7e44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_32
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 215.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dd9cca1ac15ab4b9a406026dca85c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_33
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 215.33334
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8080ff5824cff7848bfc6cfbb7ca2c1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109.333336
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdefcd8a7612a24aaf01090d0605021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 109.333336
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccffaa5646d2b9444b1c4aa04a4e94d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 109.333336
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4ac67fa14003542a141088f4e51baf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 109.333336
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42bc6a6221204c4caa0603c5d58d7f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 109.333336
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59874069cb85415419b6a061d8fda927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 109.333336
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee2d8ee0ba91448a7a1f9fe25e1fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_40
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 109.333336
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eb681c76fa83d4cb3bd744051a66cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_41
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 109.333336
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767034a744d57f34695247446bee3d3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_42
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 109.333336
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85daa4991481b9945b2b5b6bceaf368a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_43
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 109.333336
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53da773e892172c469c488a9641d59bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3.3333359
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7032de3a418254b83e3cb09c9afdce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 3.3333359
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420108d6c0cfe7a479725cccfd8c93c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3.3333359
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd66212175539643b8d171dd336e8ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_47
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 3.3333359
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ff77b10d1e32a42850ea649a37b532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_48
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3.3333359
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109adaed0ee8d804cbfad2a87a618b88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_49
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3.3333359
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017c9f9b91332da45b55486e6122d6a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_50
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3.3333359
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1e2b6b16b654941af539326d2e7e40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge (upside down) 1_51
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 3.3333359
+        width: 76.8
+        height: 106.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2013eac24bc66a4fb3b98c8fb1edb57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ede88677afa3bdd4e96c5a6341bfbc45
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
