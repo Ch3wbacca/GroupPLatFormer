@@ -26,7 +26,7 @@ GameObject:
   - component: {fileID: 114156123698655474}
   m_Layer: 0
   m_Name: Purple Lady
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38,8 +38,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1271616169623000}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.79, y: -0.01, z: -0.12109375}
-  m_LocalScale: {x: 3, y: 3, z: 1}
+  m_LocalPosition: {x: 30.6, y: -1.71, z: -0.12109375}
+  m_LocalScale: {x: 1.3875, y: 1.5234375, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -120,9 +120,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   chaseSpeed: 1
-  chaseTriggerDistance: 0
+  chaseTriggerDistance: 3
   paceDirection: {x: 1, y: 0, z: 0}
-  paceDistance: 3
+  paceDistance: 1
   paceSpeed: 2
 --- !u!212 &212036821188181892
 SpriteRenderer:
@@ -158,7 +158,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_Sprite: {fileID: 21300002, guid: 26eb50969586f414d87b0e335f0aea7a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
