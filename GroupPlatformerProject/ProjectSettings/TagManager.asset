@@ -6,6 +6,8 @@ TagManager:
   tags:
   - King
   - RotateTrigger
+  - Enemy
+  - Throwing thingy
   layers:
   - Default
   - TransparentFX
@@ -16,8 +18,8 @@ TagManager:
   - 
   - 
   - Ground
-  - 
-  - 
+  - Player
+  - Throwing thingy
   - 
   - 
   - 
