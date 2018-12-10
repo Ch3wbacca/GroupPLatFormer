@@ -6,12 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Level1.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/Death Scene.unity
-    guid: e4aab5f2a4cd65846b68fe41a0cc7fbc
+    path: Assets/Scenes/MainMenu.unity
+    guid: a2cdbbf2b2bb499418f5251516c21a79
   - enabled: 1
     path: Assets/Scenes/Kingdom.unity
     guid: e70d1b89227a39f428e84044ec7e9ca8
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/UpsideDown1.unity
+    guid: 388b0a32fa96fb845b9afe6f575b9b74
+  - enabled: 1
+    path: Assets/Scenes/UpsideDown2.unity
+    guid: 52587f8c4e9185a4eb40858c3de1d579
+  - enabled: 1
+    path: Assets/Scenes/Death Scene.unity
+    guid: e4aab5f2a4cd65846b68fe41a0cc7fbc
   m_configObjects: {}

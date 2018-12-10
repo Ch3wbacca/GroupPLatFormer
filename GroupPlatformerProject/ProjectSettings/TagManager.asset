@@ -3,11 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - King
-  - RotateTrigger
-  - Enemy
-  - Throwing thingy
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -17,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - Ground
-  - Player
-  - Throwing thingy
+  - 
+  - 
+  - 
   - 
   - 
   - 
