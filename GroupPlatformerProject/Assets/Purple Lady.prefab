@@ -39,13 +39,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1271616169623000}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< HEAD
   m_LocalPosition: {x: 89.05, y: -1.01, z: -0.12109375}
   m_LocalScale: {x: 1.3875, y: 1.5234375, z: 1}
-=======
-  m_LocalPosition: {x: 28.61, y: 8.32, z: -0.12109375}
-  m_LocalScale: {x: 1.4152501, y: 1.5539062, z: 1.02}
->>>>>>> 4a81ba6131c8a88d1d878bbd7e1dd8ce02e9db7c
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -128,7 +123,6 @@ MonoBehaviour:
   chaseSpeed: 3
   chaseTriggerDistance: 2
   paceDirection: {x: 1, y: 0, z: 0}
-<<<<<<< HEAD
   paceDistance: 3
   paceSpeed: 2
 --- !u!114 &114603012186268244
@@ -143,10 +137,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 5
-=======
-  paceDistance: 1
-  paceSpeed: 1
->>>>>>> 4a81ba6131c8a88d1d878bbd7e1dd8ce02e9db7c
 --- !u!212 &212036821188181892
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -181,11 +171,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< HEAD
   m_SortingOrder: 5
-=======
-  m_SortingOrder: 2
->>>>>>> 4a81ba6131c8a88d1d878bbd7e1dd8ce02e9db7c
   m_Sprite: {fileID: 21300002, guid: 26eb50969586f414d87b0e335f0aea7a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
