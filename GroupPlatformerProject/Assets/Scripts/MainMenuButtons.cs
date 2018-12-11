@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 
     public void NewGame()
     {
-        SceneManager.LoadScene("Town");
+        SceneManager.LoadScene("Kingdom");
 
     }
      

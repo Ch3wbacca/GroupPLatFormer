@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class Dunscene : MonoBehaviour {
-
+public class LoadtoVillage : MonoBehaviour {
 
     void OnCollisionEnter2D(Collision2D collision)
     {
@@ -12,7 +11,7 @@ public class Dunscene : MonoBehaviour {
         if (collision.gameObject.tag == "Player")
         {
             //load entrance
-            SceneManager.LoadScene("Dun");
+            SceneManager.LoadScene("Village");
 
 
         }

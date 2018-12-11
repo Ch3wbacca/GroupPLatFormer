@@ -10,7 +10,7 @@ public class DeathFloorTest : MonoBehaviour {
     {
         if(collision.gameObject.tag == "Player")
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            SceneManager.LoadScene("Death Scene");
         }
     }
 	
