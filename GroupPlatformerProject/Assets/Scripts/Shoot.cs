@@ -19,8 +19,17 @@ public class Shoot : MonoBehaviour {
         {
             timer = 0;
             Vector3 mousePosition = Input.mousePosition;
-            mousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
+            Debug.Log(mousePosition);
+            //mousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
+
+            Ray ray = Camera.main.ScreenPointToRay(mousePosition);
+            Plane xy = new Plane(Vector3.forward, new Vector3(0, 0, 0));
+            float distance;
+            xy.Raycast(ray, out distance);
+            mousePosition = ray.GetPoint(distance);
+            //mousePosition = Camera.main.ViewportToWorldPoint(mousePosition);
             mousePosition.z = 0;
+            Debug.Log(mousePosition);
             Vector3 shootDir = mousePosition - transform.position;
             shootDir.Normalize();
             //destination - start position

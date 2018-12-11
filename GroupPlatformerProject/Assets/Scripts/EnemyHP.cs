@@ -8,7 +8,7 @@ public class EnemyHP : MonoBehaviour {
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "Arrow")
+        if (collision.gameObject.tag == "Throwing thingy")
             health--;
         if (health <= 0)
         {
