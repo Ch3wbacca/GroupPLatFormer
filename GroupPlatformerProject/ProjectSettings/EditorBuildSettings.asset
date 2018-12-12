@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/UpsideDown1.unity
     guid: 388b0a32fa96fb845b9afe6f575b9b74
   - enabled: 1
-    path: Assets/Scenes/UpsideDown2.unity
+    path: Assets/Scenes/Village.unity
     guid: 52587f8c4e9185a4eb40858c3de1d579
   - enabled: 1
     path: Assets/Scenes/Death Scene.unity

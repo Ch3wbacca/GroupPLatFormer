@@ -17,6 +17,7 @@ public class Shoot : MonoBehaviour {
         timer += Time.deltaTime;
         if (Input.GetButton("Fire1") && timer > fireRate) 
         {
+           
             timer = 0;
             Vector3 mousePosition = Input.mousePosition;
             Debug.Log(mousePosition);
