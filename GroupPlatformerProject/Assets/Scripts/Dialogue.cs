@@ -17,13 +17,17 @@ public class Dialogue : MonoBehaviour {
     public GameObject s1;
     public GameObject s2;
     public GameObject door;
+    public GameObject King;
 	void Start () {
 		
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		
+        /*if (King.active == false && )
+        {
+
+        }*/
 	}
     void OnCollisionEnter2D(Collision2D collision)
     {
@@ -112,4 +116,5 @@ public class Dialogue : MonoBehaviour {
         Time.timeScale = 1;
         door.SetActive(false);
     }
+    
 }

@@ -7,6 +7,8 @@ TagManager:
   - Enemy
   - Throwing thingy
   - RotateTrigger
+  - King
+  - Collectable
   layers:
   - Default
   - TransparentFX
