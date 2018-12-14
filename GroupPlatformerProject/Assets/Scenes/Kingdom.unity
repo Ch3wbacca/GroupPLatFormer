@@ -8929,6 +8929,7 @@ MonoBehaviour:
   s1: {fileID: 769222540}
   s2: {fileID: 1095518945}
   door: {fileID: 1062098514}
+  King: {fileID: 0}
 --- !u!1 &523883035
 GameObject:
   m_ObjectHideFlags: 0
@@ -9263,8 +9264,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -52.9, y: 13.4}
-  m_SizeDelta: {x: 399.06, y: 97.93}
+  m_AnchoredPosition: {x: -52.9, y: 21.28}
+  m_SizeDelta: {x: 399.06, y: 113.68}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &630028739
 MonoBehaviour:
@@ -9298,11 +9299,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: You must go through all the land and seek the 3 pieces of a magical sword.
-    They are the Magic Jem, the Leather Straps, and the Blade. The Blade I can give
-    you now. The other items are likely guarded by difficult enemies. On your way
-    you will cross the MAGIC BRIDGE. It won't be what you think. Hurry on your way
-    and Good Luck!
+  m_Text: You must go through all the land and fight the bosses guarding the evil
+    mushroom people. It is them who have brought this upon you and your people. Killing
+    them will end their plauge. However their home is far from here in a pocket dimension
+    meant to appear like our own. You will need to travel through the dark UnderRealm
+    and kill the cyclops. Your first steps will be to get onto the bridge the magic
+    cow guards.
 --- !u!222 &630028740
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10349,7 +10351,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: First you shout and now you beg? I have little to say to that. Get out of
-    my castle and good luck on finding what you must seek.
+    my castle and good luck saving your people.
 --- !u!222 &1152290839
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10696,8 +10698,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -55.344666, y: 18.001892}
-  m_SizeDelta: {x: 381.8, y: 36.2}
+  m_AnchoredPosition: {x: -55.344666, y: 10.5}
+  m_SizeDelta: {x: 381.8, y: 51.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1430378338
 MonoBehaviour:
@@ -10732,7 +10734,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: I won't stand for this! There is a way to save your people but I won't help
-    you. Good luck finding the neccessary items!
+    you. Good luck transversing the neccesary path!
 --- !u!222 &1430378339
 CanvasRenderer:
   m_ObjectHideFlags: 0
