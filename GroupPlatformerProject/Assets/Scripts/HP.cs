@@ -50,7 +50,14 @@ public class HP : MonoBehaviour {
             healthBar.GetComponent<Slider>().value = health;
         }
     }
-   
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+     if (collision.gameObject.tag == "Laser")
+        {
+            health -= 3;
+        }   
+    }
+
 
 
 

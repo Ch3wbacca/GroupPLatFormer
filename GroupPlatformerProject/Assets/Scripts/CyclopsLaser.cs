@@ -15,12 +15,12 @@ public class CyclopsLaser : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         laserTimer += Time.deltaTime;
-        if(laserTimer == 3)
+        if(laserTimer >= 3)
         {
             laserTimer = 0;
             Laser.SetActive(true);
         }
-        if (laserTimer == 1)
+        if (laserTimer >= 1 && laserTimer < 3)
         {
             Laser.SetActive(false);
         }

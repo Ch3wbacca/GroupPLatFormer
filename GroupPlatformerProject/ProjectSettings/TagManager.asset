@@ -9,6 +9,7 @@ TagManager:
   - RotateTrigger
   - King
   - Collectable
+  - Laser
   layers:
   - Default
   - TransparentFX
