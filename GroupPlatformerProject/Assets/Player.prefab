@@ -46,6 +46,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4001925244163348}
   - component: {fileID: 20232581751292054}
+  - component: {fileID: 114446633268001034}
   - component: {fileID: 81022018641422460}
   m_Layer: 8
   m_Name: Main Camera
@@ -251,6 +252,7 @@ MonoBehaviour:
   s1: {fileID: 0}
   s2: {fileID: 0}
   door: {fileID: 0}
+  King: {fileID: 0}
 --- !u!114 &114077313867754390
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -281,6 +283,20 @@ MonoBehaviour:
   rotateMe: 0
   wall1: {fileID: 0}
   wall2: {fileID: 0}
+--- !u!114 &114446633268001034
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1557478189321888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7915ebe5baa2a7e43b69f5b7563f052e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BG1: {fileID: 0}
+  BG2: {fileID: 0}
+  BG3: {fileID: 0}
 --- !u!114 &114591330987695494
 MonoBehaviour:
   m_ObjectHideFlags: 1
